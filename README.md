@@ -26,7 +26,7 @@ This Python script implements a real-time American Sign Language (ASL) alphabet 
     pip install opencv-python numpy tensorflow
     ```
 
-3. **Trained Model**: Ensure you have a trained model saved in HDF5 format (`.h5`). The model should be capable of classifying ASL alphabets.
+3. **Trained Model**: Ensure you have downloaded the h5 file.
 
 ## Usage
 
