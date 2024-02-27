@@ -55,7 +55,10 @@ This Python script implements a real-time American Sign Language (ASL) alphabet 
 - **Lighting Conditions**: Ensure optimal lighting conditions for accurate recognition.
 - **Background**: Ensure that the video background is plain and cluttered to help the model function better.
 - **Input Source**: The script assumes webcam input (`cv2.VideoCapture(0)`), but you can specify a video file path instead.
-- **Educational Use**: This script is primarily for educational purposes and may require optimization for production use.
+
+ ## Dataset
+
+ https://www.kaggle.com/datasets/grassknoted/asl-alphabet/code
 
 ## Contributions
 
